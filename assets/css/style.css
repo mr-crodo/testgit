@@ -4,13 +4,13 @@
 }
 
 body {
-  color: #ffffff;
+  color: #9c9c9c;
   text-align: center;
-  background-color: rgb(238, 162, 48);
+  background-color: rgb(238, 48, 48);
 }
 
 .navigation a {
   text-decoration: none;
-  color: rgba(10, 121, 84, 0.87);
+  color: #dedede;
   /* font-size: 14px; */
 }
