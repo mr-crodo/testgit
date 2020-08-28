@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-body {
+/* body {
   color: #9c9c9c;
   text-align: center;
   background-color: rgb(238, 48, 48);
@@ -12,5 +12,5 @@ body {
 .navigation a {
   text-decoration: none;
   color: #dedede;
-  /* font-size: 14px; */
-}
+  font-size: 14px;
+} */
